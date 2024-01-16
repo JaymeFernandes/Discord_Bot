@@ -1,0 +1,8 @@
+obj/
+.vs/
+bin/
+!bin/Debug/
+bin/Debug/*
+!bin/Debug/net7.0/
+bin/Debug/net7.0/*
+!bin/Debug/net7.0/Modules/
