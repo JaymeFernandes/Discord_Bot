@@ -1,8 +1,8 @@
-obj/
-.vs/
-bin/
-!bin/Debug/
-bin/Debug/*
-!bin/Debug/net7.0/
-bin/Debug/net7.0/*
-!bin/Debug/net7.0/Modules/
+discord/obj/
+discord/.vs/
+discord/bin/
+!discord/bin/Debug/
+discord/bin/Debug/*
+!discord/bin/Debug/net7.0/
+discord/bin/Debug/net7.0/*
+!discord/bin/Debug/net7.0/Modules/
