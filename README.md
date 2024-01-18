@@ -33,7 +33,7 @@ Este projeto é uma base funcional para um bot Discord.net, desenvolvido para ev
     - [Visual studio](https://visualstudio.microsoft.com/pt-br/)
 
 3. Edite o token no arquivo:
-    - [Program.cs](discord\Program.cs)
+    - [Program.cs](discord/Program.cs)
 
   ![Discord_Bot_Base](https://private-user-images.githubusercontent.com/143356448/297395854-da033c89-6499-4fc7-9012-bf15980829b7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0OTkwODYsIm5iZiI6MTcwNTQ5ODc4NiwicGF0aCI6Ii8xNDMzNTY0NDgvMjk3Mzk1ODU0LWRhMDMzYzg5LTY0OTktNGZjNy05MDEyLWJmMTU5ODA4MjliNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExN1QxMzM5NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNWZhZTcxYzYwNDhkYzRmYTZiMjUyMWE4ZjY2NzJhOGYxZTI3OGY2ZDAxM2E4ODM1ZjljYzdjNDcxNjA4ZTE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.fCh_R7IgEc4BR7B4d_Pipykq5Oih8WL2Lt-YFjElwck) 
 
